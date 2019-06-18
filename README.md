@@ -1,4 +1,4 @@
-# Zero XML Spring & Hibernate
+# Zero XML Spring & Hibernate with MySQL
 This is `Class Based` basic spring project 
 Implemented with `Repository` pattarn
 
