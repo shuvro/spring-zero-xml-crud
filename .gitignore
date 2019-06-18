@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+*.iml
+nbproject/
+/basic_spring/src/main/resources/dev.jdbc.properties
+basic_spring/target/
+**/target
